@@ -5,5 +5,8 @@
   "main": "./src/server/index.tsx",
   "assets": {
     "directory": "dist"
+  },
+  "observability": {
+    "enabled": true
   }
 }
